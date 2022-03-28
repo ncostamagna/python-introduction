@@ -17,3 +17,4 @@ git push origin master # subir los cambios al repositorio
 ```sh
 jupyter notebook
 ```
+
